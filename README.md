@@ -240,7 +240,7 @@ Potential improvements for this project:
 **Course:** Data Structures and Algorithms  
 **Institution:** Suez Canal University  
 **Program:** Computer Science  
-**Academic Year:** 2024/2025
+**Academic Year:** 2025/2026
 
 This project demonstrates:
 - ✅ Custom implementation of fundamental data structures
