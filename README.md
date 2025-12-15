@@ -294,7 +294,7 @@ This project was developed collaboratively by a team of 7 Computer Science stude
 ## 🙏 Acknowledgments
 
 - **Suez Canal University** - For providing the academic framework
-- **DSA Course Instructor** - For guidance and project requirements
+- **Dr.Fatma Elsayed** - For guidance and project requirements
 - **ncurses Library** - For terminal UI capabilities
 - **yt-dlp & mpv** - For enabling YouTube streaming functionality
 
