@@ -96,3 +96,12 @@ WSL accesses your Windows files via the `/mnt/c/` path.
 
 ```bash
 ./music_player "/mnt/c/Users/Yousif/Music"
+
+Key,Action,Data Structure Operation
+RIGHT,Play Next Song,current = current->next
+LEFT,Play Previous Song,current = current->prev
+UP,Undo / Go Back,stack.pop()
+L,Toggle Loop,Connects Tail -> Head
+S,Search Library,Linear Search Traversal
+G,Global Stream,Fetches URL & Appends Node
+Q,Quit,Proper Memory Cleanup
