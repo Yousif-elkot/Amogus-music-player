@@ -279,7 +279,7 @@ This project was developed collaboratively by a team of 7 Computer Science stude
 | **Yousif Hal** | *TBD* | `playNext()` Function Implementation |
 | **Yehya Hal** | *TBD* | `playPrevious()` Function Implementation |
 | **Yousif Omar Elhamahmy** | *TBD* | `addSong()` Function & Linked List Operations |
-| **Yousif Khaled** | *TBD* | `searchSong()` Algorithm & Project Presentation |
+| **Yousef Khaled** | [@khaldoze](https://github.com/khaldoze) | `searchSong()` Algorithm & Project Presentation |
 | **Yousif Elshehawy** | *TBD* | Complete History Stack Implementation (`push`, `pop`, `peek`) |
 | **Yousif Emira** | *TBD* | `toggleLoopMode()` & Circular List Logic |
 
